@@ -1,1 +1,1 @@
-# Computer Vision Learning
+# Computer Vision Learning (Accelerated)

@@ -1,6 +1,14 @@
 .DS_Store
-*.ipynb_checkpoints/
+.idea/
+.vscode/
 __pycache__/
-.env
+*.pyc
 .venv
-.data/
+.env
+.ipynb_checkpoints/
+data/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+models/*
+!models/.gitkeep
+reports/figures/*
